@@ -5,7 +5,7 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = ""
   weight = 10
 
 [[main]]
@@ -27,6 +27,21 @@
   name = "Contact"
   url = "#contact"
   weight = 60
+
+[[main]]
+  name = "About Us"
+  url = "about-us"
+  weight = 70
+
+[[main]]
+  name = "Box Office"
+  url = "box-office"
+  weight = 80
+
+[[main]]
+  name = "Find Us"
+  url = "find-us"
+  weight = 90
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
