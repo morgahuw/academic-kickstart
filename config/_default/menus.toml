@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Posts"
-  url = "#posts"
+  url = "post/"
   weight = 20
 
 [[main]]
@@ -30,17 +30,17 @@
 
 [[main]]
   name = "About Us"
-  url = "about-us"
+  url = "about-us/"
   weight = 70
 
 [[main]]
   name = "Box Office"
-  url = "box-office"
+  url = "box-office/"
   weight = 80
 
 [[main]]
   name = "Find Us"
-  url = "find-us"
+  url = "find-us/"
   weight = 90
 
 # Link to a PDF of your resume/CV from the menu.
